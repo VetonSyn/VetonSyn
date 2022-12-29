@@ -33,7 +33,7 @@ To make it clear: full-stack developer. I am currently working on building an on
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VetonSyn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VetonSyn&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vetonSyn&&style=flat-square" align="center" />
