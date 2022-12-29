@@ -35,9 +35,14 @@ To make it clear: full-stack developer. I am currently working on building an on
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VetonSyn&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=vetonSyn&&style=flat-square" align="center" />
-</div>  
+<div style="display: flex;">
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vetonSyn&&style=flat-square" align="center" />
+  </div>  
+  <a href="https://trackgit.com">
+  <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lc9e4aci881r5dwzmwdl" alt="trackgit-views" />
+  </a>
+  </div>
 <br/>  
 
 <div align="center">
