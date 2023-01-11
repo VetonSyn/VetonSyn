@@ -7,13 +7,13 @@
 #### If you really want to know something about me:  
   
 
-The greatest goal of each of us is not to achieve our goal, but to make our goal a daily habit. In recent years, I have pushed myself every day to become a developer in the field of programming. A choice that I am still happy to have made today. It opens up your possibilities to develop whatever you want in today's technology world.  
+My biggest ambition is not only to achieve my goals, but to make them a daily habit. In recent years, I have daily stimulated myself to become a professional software developer, and to this day it is still a choice that I look back on with pleasure. It offers the opportunity to grow and develop in the current technology industry.
   
 
 #### What deserves my focus at the moment?  
   
 
-To make it clear: full-stack developer. I am currently working on building an online leave system (HR). This is a 100% SPA application. A work-life balance is what every employee strives for, but you simply need a good system for this. It's a complex but challenging journey as a full-stack developer. Soon available.   
+ At the moment, I am focused on developing an innovative online leave system (HR). This is a 100% SPA application that aims to provide an efficient work-life balance for employees and staff. Think of leave requests, submitting sick notes online, managing pay... Building such a system is a complex process but at the same time a challenging experience as a full-stack developer and also a chance to prove my skills. A project I am proud of and which I can demonstrate that I am capable of realizing such projects. Soon available for employers.
   
 
 #### Anything else?  
