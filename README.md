@@ -10,15 +10,6 @@
 My biggest ambition is not only to achieve my goals, but to make them a daily habit. In recent years, I have daily stimulated myself to become a professional software developer, and to this day it is still a choice that I look back on with pleasure. It offers the opportunity to grow and develop in the current technology industry.
   
 
-#### What deserves my focus at the moment?  
-  
-
- At the moment, I am focused on developing an innovative online leave system (HR). This is a 100% SPA application that aims to provide an efficient work-life balance for employees and staff. Think of leave requests, submitting sick notes online, managing pay... Building such a system is a complex process but at the same time a challenging experience as a full-stack developer and also a chance to prove my skills. A project I am proud of and which I can demonstrate that I am capable of realizing such projects. Soon available for employers.
-  
-
-#### Anything else?  
-  
-
 - 📝 Interest in Cybersecurity,  Web3 and being a Chartist  
   
 
@@ -49,9 +40,6 @@ My biggest ambition is not only to achieve my goals, but to make them a daily ha
 <a href="https://dribbble.com/veton" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/VetonSyn" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
