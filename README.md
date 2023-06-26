@@ -4,24 +4,11 @@
 </div>  
   
 
-#### If you really want to know something about me:  
+#### If you're curious to know more about me:  
   
 
 In recent years, I have daily stimulated myself to become a professional software developer, and to this day it is still a choice that I look back on with pleasure. It offers the opportunity to grow and develop in the current technology industry. Check out me recent project: <a target="_blank" href="https://hummans.be">Hummans</a>
   
-
-- 📝 Interest in Cybersecurity,  Web3 and being a Chartist  
-  
-
-- 📖 Books? Atomic habits at the moment  
-  
-
-- 🏃 Every single day  
-  
-
-- ⭐ Be careful to looking for collaborating with me, a lot of sarcasm is included  
-  
-
 <br/>  
 
 
