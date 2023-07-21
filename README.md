@@ -1,14 +1,26 @@
-<div align="center">
-<img src="https://github.com/VetonSyn/VetonSyn/blob/main/banner%20veton%20small.jpeg" align="center" style="width: 100%" />
-  
-</div>  
-  
 
-#### If you're curious to know more about me:  
-  
+```plaintext
 
-In recent years, I have daily stimulated myself to become a professional software developer, and to this day it is still a choice that I look back on with pleasure. It offers the opportunity to grow and develop in the current technology industry. Check out me recent project: <a target="_blank" href="https://hummans.be">Hummans</a>
-  
+          _______ _________ _______  _            _______  _______  _        _______  _       __________________
+|\     /|(  ____ \\__   __/(  ___  )( (    /|    (  ____ \(  ___  )| \    /\(  ___  )( \      \__    _/\__   __/
+| )   ( || (    \/   ) (   | (   ) ||  \  ( |    | (    \/| (   ) ||  \  / /| (   ) || (         )  (     ) (   
+| |   | || (__       | |   | |   | ||   \ | |    | (_____ | |   | ||  (_/ / | |   | || |         |  |     | |   
+( (   ) )|  __)      | |   | |   | || (\ \) |    (_____  )| |   | ||   _ (  | |   | || |         |  |     | |   
+ \ \_/ / | (         | |   | |   | || | \   |          ) || |   | ||  ( \ \ | |   | || |         |  |     | |   
+  \   /  | (____/\   | |   | (___) || )  \  |    /\____) || (___) ||  /  \ \| (___) || (____/\|\_)  )  ___) (___
+   \_/   (_______/   )_(   (_______)|/    )_)    \_______)(_______)|_/    \/(_______)(_______/(____/   \_______/
+                                                                                                                
+
+
+                    Full-Stack Developer • Antwerp • Transforming Ideas into Seamless User Experiences 
+
+❯ 🌍 Website           vetonsokolji.com
+❯ 📬 Email             hello@vetonsokolji.com
+❯ 🏰 Hummans           hummans.be
+❯ 📌 Issues            I'm here, ask my anything
+
+```
+
 <br/>  
 
 
