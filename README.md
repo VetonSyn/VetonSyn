@@ -1,23 +1,9 @@
 
 ```plaintext
-
-          _______ _________ _______  _            _______  _______  _        _______  _       __________________
-|\     /|(  ____ \\__   __/(  ___  )( (    /|    (  ____ \(  ___  )| \    /\(  ___  )( \      \__    _/\__   __/
-| )   ( || (    \/   ) (   | (   ) ||  \  ( |    | (    \/| (   ) ||  \  / /| (   ) || (         )  (     ) (   
-| |   | || (__       | |   | |   | ||   \ | |    | (_____ | |   | ||  (_/ / | |   | || |         |  |     | |   
-( (   ) )|  __)      | |   | |   | || (\ \) |    (_____  )| |   | ||   _ (  | |   | || |         |  |     | |   
- \ \_/ / | (         | |   | |   | || | \   |          ) || |   | ||  ( \ \ | |   | || |         |  |     | |   
-  \   /  | (____/\   | |   | (___) || )  \  |    /\____) || (___) ||  /  \ \| (___) || (____/\|\_)  )  ___) (___
-   \_/   (_______/   )_(   (_______)|/    )_)    \_______)(_______)|_/    \/(_______)(_______/(____/   \_______/
                                                                                                                 
 
 
-                    Full-Stack Developer • Antwerp • Transforming Ideas into Seamless User Experiences 
-
-❯ 🌍 Website           vetonsokolji.com
-❯ 📬 Email             hello@vetonsokolji.com
-❯ 🏰 Hummans           hummans.be
-❯ 📌 Issues            I'm here, ask my anything
+                    Full-Stack Developer • Transforming Ideas into Seamless User Experiences 
 
 ```
 
