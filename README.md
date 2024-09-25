@@ -13,20 +13,6 @@
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=vetonSyn&&style=flat-square" align="center" />
   </div>  
-<br/>  
-
-<div align="center">
-<a href="https://github.com/vetonSyn" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/vetonSyn" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>
-<a href="https://dribbble.com/veton" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
 
 <br/>  
 
