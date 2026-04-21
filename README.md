@@ -3,7 +3,7 @@
                                                                                                                 
 
 
-                    Full-Stack Developer • Transforming Ideas into Seamless User Experiences 
+                    Making sure your users don't throw their screens out the window.
 
 ```
 
